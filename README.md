@@ -123,7 +123,7 @@ If the user presses **Enter** without entering a new value, the existing value i
 
 I have also created an explanation video covering the project structure, collection data types, and the main features of the program.
 
-🎥 **Explanation Video:** [Watch the Project Explanation](YOUR_VIDEO_LINK)
+🎥 **Explanation Video:** [Watch the Project Explanation](https://drive.google.com/file/d/1HQV41fMdPD34DhDcrmo61SN8U4_Ul7RA/view?usp=sharing)
 
 ## Repository
 
